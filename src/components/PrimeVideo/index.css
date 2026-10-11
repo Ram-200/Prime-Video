@@ -1,0 +1,27 @@
+.prime-video-container{
+    height: auto;
+    width: 100%;
+    background-color: #000000;
+    background-size: cover;
+}
+.prime-video-image{
+    object-fit: cover;
+    height: 200px;
+    width:100%;
+}
+.movies-container{
+  width: 90%;
+  margin: auto;
+  padding: 0;
+  text-align: left;
+}
+
+h1{
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: "Roboto";
+    padding: 0 !important;
+  text-align: left;
+    
+}
